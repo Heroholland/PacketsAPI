@@ -14,3 +14,6 @@
 10. sendPacket() - Run this to send a packet.
 11. serialize() - Run this to serialize Strings in Action Bar.
 12. setNPCLocation() - Run this to set the NPC's location.
+
+# View the Java Docs for more info
+To view the javadocs: Download the javadocs folder, navigate to javadocs/index.html, open index.html in your browser.
